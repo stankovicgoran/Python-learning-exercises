@@ -1,2 +1,2 @@
 # Python-learning-projects
-A collection of python mini projects to enhance your python skills
+A collection of python mini exercises to enhance your Python skills
